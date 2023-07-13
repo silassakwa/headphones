@@ -29,7 +29,8 @@ Footer with the company's logo, social media links and a copyright text.
 Overall, the website is responsive on all kinds of screen.
 Alos, I attempted to use css animations in some parts of it.
 -Image of the progress made
-
+[Screenshot-website](images/Screenshot%20(137).png);
+[Other-screenshot](images/Screenshot%20(138).png);
 
 Author
 Afolabi Saheedat- @Saheedatt
